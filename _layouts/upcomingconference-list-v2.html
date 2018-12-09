@@ -1,0 +1,84 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body id="posts">
+  
+  <div class="block-left">
+    <div class="content">
+      <div class="main-info">
+        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
+        <h1>
+          {{ site.title }}
+        </h1>
+        <h2>
+          {{ site.description }}
+        </h2>
+        <p>Work in progress, want to make it better? Lets connect over internet!!!</p>
+        {% include social-links.html %}
+      </div>
+    </div>
+    <canvas></canvas>
+  </div>
+  
+  <div class="block-right">
+    
+    <!-- <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a> -->
+
+    <a href="#" title="posts" class="posts-menu-icon"></a>
+
+    <span class="posts-link">PAST</span>
+
+    <!-- <a title="project" class="projects-menu-icon">
+      <span></span>
+    </a>
+    <span class="projects-link">PROJECTS</span> -->
+    
+    <div class="content">
+      <ul class="posts-list">
+        
+        {% assign conferences = site.data.conferences | sort: 'start' %}
+        
+        {% capture now %}{{ site.time | date: '%Y%m%d' | plus: 0 }}{%- endcapture %}
+        
+        {% for conference in conferences %}
+        
+        {% capture end %}{{conference.end | date: '%Y%m%d' | plus: 0 }}{% endcapture %}
+        
+        {% if end >= now %} 
+        
+        <li>
+          <h2>
+            <a href="{{ conference.website }}" target="_blank" rel="noopener noreferrer" class="post-title">
+              <span>{{ conference.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            </a>
+            <span class="date">{{ conference.display_date }}</span>
+          </h2>
+          <p>{{ conference.description | strip_html | truncatewords:10 }}</p>
+          <ul class="tags">
+            {% if conference.cfp != false %}
+            <li><a href="{%  if conference.cfp contains "://" %}{{ conference.cfp }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">CFP</a></li>
+            {% endif %}
+            {% if conference.scholarships != false %}
+            <li><a href="{%  if conference.scholarship contains "://" %}{{ conference.scholarthip }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">SCHOLARSHIPS</a></li>
+            {% endif %}
+            {% if conference.childcare != false %}
+            <li><a href="{%  if conference.childcare contains "://" %}{{ conference.childcare }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">CHILDCARE</a></li>
+            {% endif %}
+          </ul>
+        </li>
+        {% endif %}
+        {% endfor %}
+        
+      </ul>
+      
+    </div>
+  </div>
+  {% include overlay.html %}
+  {% include scripts.html %}
+  <script src="{{ site.url }}/assets/js/canvas.js"></script>
+</body>
+</html>

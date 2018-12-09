@@ -1,0 +1,157 @@
+- title: DevOps Days India 2018
+  city: Bengaluru
+  venue: Sheraton Grand, Bengaluru
+  display_date: 08 - 09 December 2018
+  start: 2018-12-08
+  end: 2018-12-09
+  website: https://devopsdaysindia.org/
+  cfp: https://devopsdaysindia.org/#cfp
+  scholarships: false
+  childcare: false
+  description: Devopsdays India is a global event complementing other Devopsdays events across the world. You can find more about Devopsdays global event here.
+
+- title: FunctionalConf
+  city: Bengaluru
+  venue: The Grand Magrath Hotel, Bengaluru
+  display_date: 12 – 16 December 2018
+  start: 2018-12-12
+  end: 2018-12-16
+  website: https://functionalconf.com/
+  cfp: https://functionalconf.com/speaker.html
+  scholarships: false
+  childcare: false
+  description: Asia's Premier Functional Programming Conference
+
+- title: SciPy India 2018
+  city: Mumbai
+  venue: IIT Bombay
+  display_date: 21 – 22 December 2018
+  start: 2018-12-21
+  end: 2018-12-22
+  website: https://scipy.in/2018
+  cfp: https://scipy.in/2018#contribution
+  scholarships: false
+  childcare: false
+  description: SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. 
+
+- title: INDICON 2018
+  city: Mumbai
+  venue: Amrita Vishwa Vidyapeetham, Coimbatore
+  display_date: 16 – 18 December 2018
+  start: 2018-12-16
+  end: 2018-12-18
+  website: http://indicon2018.in/
+  cfp: true
+  scholarships: false
+  childcare: false
+  description: INDICON is the flagship Annual International Conference of the IEEE India Council
+
+
+- title: Agile India 2019
+  city: Bengaluru
+  venue: Sheraton Grand, Bangalore
+  display_date: 18 – 23 March 2019
+  start: 2019-03-18
+  end: 2019-03-23
+  website: https://2019.agileindia.org/
+  cfp: https://confengine.com/agile-india-2019/proposals
+  scholarships: false
+  childcare: false
+  description: Asia's Largest and Premier International conference on Leading Edge Software Development Methods
+
+- title: AppiumConf
+  city: Bengaluru
+  venue: Sheraton Grand, Bangalore 
+  display_date: 13 – 15 June 2019
+  start: 2019-06-13
+  end: 2019-06-15
+  website: https://appiumconf.com/
+  cfp: https://confengine.com/appium-conf-2019/proposals
+  scholarships: false
+  childcare: false
+  description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
+
+- title: "Discuss Agile: Regional Scrum Gathering Hyderabad"
+  city: Hyderabad
+  venue: Novotel Hyderabad Convention Centre
+  display_date: 29 – 30 March 2019
+  start: 2019-03-29
+  end: 2019-03-30
+  website: http://www.discussagile.com/
+  cfp: https://confengine.com/discuss-agile-regional-scrum-gathering-hyderabad/proposals
+  scholarships: false
+  childcare: false
+  description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
+
+
+- title: JSFoo Pune 2019
+  city: Pune
+  venue:  MCCIA TRADE TOWER, Pune
+  display_date: 10 January 2019
+  start: 2019-01-10
+  end: 2019-01-10
+  website: https://jsfoo.in/2019-pune/
+  cfp: https://jsfoo.talkfunnel.com/2019-pune/
+  scholarships: false
+  childcare: false
+  description: The second Pune edition of India’s premier JavaScript conference
+
+- title: GOPHERCON INDIA 2019
+  city: Goa
+  venue:  Park Regis, Goa
+  display_date: 18 – 19 January 2019
+  start: 2019-01-18
+  end: 2019-01-19
+  website: https://gopherconindia.com/
+  cfp: https://gopherconindia.com/call-for-proposal/
+  scholarships: https://gopherconindia.com/scholarship/
+  childcare: false
+  description: The fifth Go conference in India, Go is an open source project developed by a team at Google and many contributors from the open source community.
+
+- title: SACON 2019
+  city: Bengaluru
+  venue:  TBD, Bengaluru
+  display_date: 15 – 16 February 2019
+  start: 2019-02-15
+  end: 2019-02-16
+  website: https://www.sacon.io/
+  cfp: https://www.sacon.io/call-for-speakers/
+  scholarships: false
+  childcare: false
+  description: SACON - INDIA'S ONLY SECURITY ARCHITECTURE CONFERENCE & TRAINING
+
+- title: RUBYCONF INDIA 2019
+  city: Goa
+  venue:  Hotel Park Regis, Goa
+  display_date: 20 – 21 January 2019
+  start: 2019-01-20
+  end: 2019-01-21
+  website: https://www.rubyconfindia.org/
+  cfp: https://www.papercall.io/rci19
+  scholarships: https://www.rubyconfindia.org/scholarship/
+  childcare: false
+  description: RubyConf India is a global event complementing other RubyConf events across the world.
+
+- title: Pragma 2019
+  city: Allahabad
+  venue:  IIIT ALLAHABAD
+  display_date: 19 – 20 January 2019
+  start: 2019-01-19
+  end: 2019-01-20
+  website: http://pragmaconf.tech/
+  cfp: https://eventyay.com/e/a1fcaa21/cfs/
+  scholarships: false
+  childcare: false
+  description: Pragma is premier student developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India
+
+- title: Fragments 2019
+  city: Bengaluru
+  venue:  NIMHANS CONVENTION CENTRE, BANGALORE
+  display_date: 01 – 02 March 2019
+  start: 2019-03-01
+  end: 2019-03-02
+  website: https://fragments.in/2019/
+  cfp: https://fragments.talkfunnel.com/2019/
+  scholarships: false
+  childcare: true
+  description: Piece together the future of mobile development!, Fragments aims to provide a platform for those who have dealt with these issues at scale to share their approaches, tools, and lessons learned.
