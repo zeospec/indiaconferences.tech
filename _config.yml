@@ -1,7 +1,7 @@
 # Site
 title: India Conferences
 description: Listing tech gatherings in India. 
-url: https://indiaconferences.tech/
+url: https://indiaconferences.tech
 logo: halve.png                                       # Site logo
 locale: en_US
 timezone: Asia/Kolkata
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-130707052-1
 
 # Social Links
 email:             me@zeospec.com
