@@ -155,3 +155,39 @@
   scholarships: false
   childcare: true
   description: Piece together the future of mobile development!, Fragments aims to provide a platform for those who have dealt with these issues at scale to share their approaches, tools, and lessons learned.
+
+- title: Barcamp Bangalore Spring 2019
+  city: Bengaluru
+  venue:  Dayanand Sagar University, Kudlu Gate, Bangalore
+  display_date: 02 February 2019
+  start: 2019-02-02
+  end: 2019-02-02
+  website: https://barcampbangalore.com/bcb/
+  cfp: https://barcampbangalore.com/bcb/add-a-session
+  scholarships: false
+  childcare: false
+  description: Barcamp Bangalore is an open event focused on people, ideas, and collaboration. There is no fixed format or agenda. We call it an un-conference. Barcamp is for and by the community.
+
+- title: Amazon AI Conclave 2018
+  city: Bengaluru
+  venue:  ITC Gardenia Hotel, Bangalore
+  display_date: 13 – 14 December 2018
+  start: 2018-12-13
+  end: 2018-12-14
+  website: https://aws.amazon.com/events/ai_conclave/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Amazon AI Conclave is a free event for business leaders, data scientists, engineers and developers to learn about Amazon's machine learning services, and real-world use cases developed by our customers
+
+- title: Rootconf 2019
+  city: Bengaluru
+  venue:  NIMHANS CONVENTION CENTRE, BANGALORE
+  display_date: 21 – 22 June 2019
+  start: 2019-06-21
+  end: 2019-06-22
+  website: https://rootconf.in/2019/
+  cfp: https://hasgeek.com/rootconf/2019/
+  scholarships: false
+  childcare: true
+  description: A Conference on infrastructure security, cost optimisation, and distributed systems
