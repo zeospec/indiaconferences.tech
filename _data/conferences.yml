@@ -191,3 +191,28 @@
   scholarships: false
   childcare: true
   description: A Conference on infrastructure security, cost optimisation, and distributed systems.
+
+- title: GamerConnect
+  city: Bengaluru
+  venue:  Koramangala Indoor Stadium, Bengaluru
+  display_date: 21 – 22 December 2018
+  start: 2018-12-15
+  end: 2018-12-16
+  website: https://gamerconnect.in/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: GamerConnect is the largest gaming technology showcase platform in India and we are coming to Bangalore. This is going to be our last event of 2018 and the biggest of all so far. Get ready to experience the best of PC Gaming.
+
+- title: ng-India
+  city: Delhi/NCR
+  venue:  Fortune Select Excalibur, Gurgaon
+  display_date: 23 February 2019
+  start: 2019-02-23
+  end: 2019-02-23
+  website: https://www.ng-ind.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: India's Angular Conference!
+
