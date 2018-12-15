@@ -86,7 +86,7 @@
 
 - title: JSFoo Pune 2019
   city: Pune
-  venue:  MCCIA TRADE TOWER, Pune
+  venue: MCCIA TRADE TOWER, Pune
   display_date: 10 January 2019
   start: 2019-01-10
   end: 2019-01-10
@@ -98,7 +98,7 @@
 
 - title: GOPHERCON INDIA 2019
   city: Goa
-  venue:  Park Regis, Goa
+  venue: Park Regis, Goa
   display_date: 18 – 19 January 2019
   start: 2019-01-18
   end: 2019-01-19
@@ -110,7 +110,7 @@
 
 - title: SACON 2019
   city: Bengaluru
-  venue:  TBD, Bengaluru
+  venue: TBD, Bengaluru
   display_date: 15 – 16 February 2019
   start: 2019-02-15
   end: 2019-02-16
@@ -122,7 +122,7 @@
 
 - title: RUBYCONF INDIA 2019
   city: Goa
-  venue:  Hotel Park Regis, Goa
+  venue: Hotel Park Regis, Goa
   display_date: 20 – 21 January 2019
   start: 2019-01-20
   end: 2019-01-21
@@ -134,7 +134,7 @@
 
 - title: Pragma 2019
   city: Allahabad
-  venue:  IIIT ALLAHABAD
+  venue: IIIT ALLAHABAD
   display_date: 19 – 20 January 2019
   start: 2019-01-19
   end: 2019-01-20
@@ -146,7 +146,7 @@
 
 - title: Fragments 2019
   city: Bengaluru
-  venue:  NIMHANS CONVENTION CENTRE, BANGALORE
+  venue: NIMHANS CONVENTION CENTRE, BANGALORE
   display_date: 01 – 02 March 2019
   start: 2019-03-01
   end: 2019-03-02
@@ -158,7 +158,7 @@
 
 - title: Barcamp Bangalore Spring 2019
   city: Bengaluru
-  venue:  Dayanand Sagar University, Kudlu Gate, Bangalore
+  venue: Dayanand Sagar University, Kudlu Gate, Bangalore
   display_date: 02 February 2019
   start: 2019-02-02
   end: 2019-02-02
@@ -170,7 +170,7 @@
 
 - title: Amazon AI Conclave 2018
   city: Bengaluru
-  venue:  ITC Gardenia Hotel, Bangalore
+  venue: ITC Gardenia Hotel, Bangalore
   display_date: 13 – 14 December 2018
   start: 2018-12-13
   end: 2018-12-14
@@ -182,7 +182,7 @@
 
 - title: Rootconf 2019
   city: Bengaluru
-  venue:  NIMHANS CONVENTION CENTRE, BANGALORE
+  venue: NIMHANS CONVENTION CENTRE, BANGALORE
   display_date: 21 – 22 June 2019
   start: 2019-06-21
   end: 2019-06-22
@@ -192,10 +192,10 @@
   childcare: true
   description: A Conference on infrastructure security, cost optimisation, and distributed systems.
 
-- title: GamerConnect
+- title: GamerConnect 2018 | Bangalore
   city: Bengaluru
-  venue:  Koramangala Indoor Stadium, Bengaluru
-  display_date: 21 – 22 December 2018
+  venue: Koramangala Indoor Stadium, Bengaluru
+  display_date: 15 – 16 December 2018
   start: 2018-12-15
   end: 2018-12-16
   website: https://gamerconnect.in/
@@ -206,7 +206,7 @@
 
 - title: ng-India
   city: Delhi/NCR
-  venue:  Fortune Select Excalibur, Gurgaon
+  venue: Fortune Select Excalibur, Gurgaon
   display_date: 23 February 2019
   start: 2019-02-23
   end: 2019-02-23
@@ -216,3 +216,26 @@
   childcare: false
   description: India's Angular Conference!
 
+- title: India HCI 2018
+  city: Bengaluru
+  venue: Bangalore International Exehibition Center
+  display_date: 16 – 18 December 2018
+  start: 2018-12-16
+  end: 2018-12-18
+  website: https://www.indiahci.org/2018/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: The screen till now is the dominant paradigm of interacting with digital technology.
+
+- title: OWASP SEASIDES
+  city: GOA
+  venue: GOA
+  display_date: 27 – 28 February 2019
+  start: 2019-02-27
+  end: 2019-02-28
+  website: https://www.owaspseasides.com 
+  cfp: https://www.owaspseasides.com/cfp
+  scholarships: false
+  childcare: false
+  description: Through OWASP Bangalore chapter aims to provide free of cost premium workshops and talks to all the participants.
