@@ -239,3 +239,15 @@
   scholarships: false
   childcare: false
   description: Through OWASP Bangalore chapter aims to provide free of cost premium workshops and talks to all the participants.
+  
+ - title: DataHack Summit
+  city: Bengaluru
+  venue: NIMHANS Convention Centre, Bengaluru
+  display_date: 22 – 25 November 2019
+  start: 2019-11-22
+  end: 2019-11-22
+  website: https://www.analyticsvidhya.com/datahack-summit-2018/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: India's most advanced conference on Aritificial Intelligence, Machine Learning, Deep Learning and IoT.
